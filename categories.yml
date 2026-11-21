@@ -1,0 +1,12 @@
+- id: managed-platforms
+  name: "Managed Platforms"
+- id: open-source-feature-flags
+  name: "Open-Source Feature Flags"
+- id: experimentation-first
+  name: "Experimentation-First"
+- id: openfeature-providers
+  name: "OpenFeature Providers"
+- id: sdks-and-libraries
+  name: "SDKs & Libraries"
+- id: remote-config
+  name: "Remote Config"

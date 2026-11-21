@@ -1,0 +1,88 @@
+- id: enterprise
+  name: "Enterprise"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: real-time
+  name: "Real-time"
+- id: targeting
+  name: "Targeting"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: remote-config
+  name: "Remote Config"
+- id: a-b-testing
+  name: "A/B Testing"
+- id: warehouse-native
+  name: "Warehouse-Native"
+- id: product-analytics
+  name: "Product Analytics"
+- id: session-replay
+  name: "Session Replay"
+- id: automated-analysis
+  name: "Automated Analysis"
+- id: gdpr
+  name: "GDPR"
+- id: simple
+  name: "Simple"
+- id: gitops
+  name: "GitOps"
+- id: agpl-3-0
+  name: "AGPL-3.0"
+- id: edge
+  name: "Edge"
+- id: developer-experience
+  name: "Developer Experience"
+- id: personalization
+  name: "Personalization"
+- id: digital-experience
+  name: "Digital Experience"
+- id: free
+  name: "Free"
+- id: mobile-first
+  name: "Mobile-First"
+- id: google-cloud
+  name: "Google Cloud"
+- id: progressive-delivery
+  name: "Progressive Delivery"
+- id: observability
+  name: "Observability"
+- id: go
+  name: "Go"
+- id: openfeature
+  name: "OpenFeature"
+- id: net
+  name: ".NET"
+- id: signalr
+  name: "SignalR"
+- id: experimentation
+  name: "Experimentation"
+- id: apache-2-0
+  name: "Apache-2.0"
+- id: java
+  name: "Java"
+- id: spring
+  name: "Spring"
+- id: spring-boot
+  name: "Spring Boot"
+- id: cncf
+  name: "CNCF"
+- id: vendor-neutral
+  name: "Vendor-Neutral"
+- id: specification
+  name: "Specification"
+- id: kubernetes
+  name: "Kubernetes"
+- id: sidecar
+  name: "Sidecar"
+- id: proxy
+  name: "Proxy"
