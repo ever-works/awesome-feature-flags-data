@@ -1,14 +1,68 @@
-- url: "https://openfeature.dev/ecosystem"
-  title: "openfeature.dev — Ecosystem"
-- url: "https://featureflags.io/"
-  title: "featureflags.io — Feature Flags, Toggles, Controls – The Hub for Feature Flag Driven Development | FeatureFlags"
-- url: "https://awesome-selfhosted.net/tags/software-development---feature-toggle.html"
-  title: "awesome-selfhosted — Software Development - Feature Toggle"
-- url: "https://github.com/ripienaar/free-for-dev#feature-toggles-management-platforms"
-  title: "free-for-dev — section “Feature Toggles Management Platforms”"
-- url: "https://raw.githubusercontent.com/andrewdmaclean/awesome-feature-flag-management/HEAD/README.md"
-  title: "GitHub list — andrewdmaclean/awesome-feature-flag-management (103★)"
-- url: "https://github.com/topics/feature-flags"
-  title: "GitHub topic — `feature-flags` (1,951 repos)"
-- url: "https://github.com/topics/feature-toggles"
-  title: "GitHub topic — `feature-toggles` (749 repos)"
+- url: https://awesome-selfhosted.net/tags/software-development---feature-toggle.html
+  normalized_url: https://awesome-selfhosted.net/tags/software-development---feature-toggle.html
+  first_seen_at: 2026-11-22T04:29:30.604Z
+  last_attempted_at: 2026-11-22T04:29:30.604Z
+  last_success_at: 2026-11-22T04:29:30.604Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://featureflags.io/
+  normalized_url: https://featureflags.io/
+  first_seen_at: 2026-11-22T04:28:17.371Z
+  last_attempted_at: 2026-11-22T04:28:17.371Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://featureflags.io/"
+- url: https://github.com/ripienaar/free-for-dev#feature-toggles-management-platforms
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-22T04:37:00.436Z
+  last_attempted_at: 2026-11-22T04:37:00.436Z
+  last_success_at: 2026-11-22T04:37:00.436Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline
+- url: https://github.com/topics/feature-flags
+  normalized_url: https://github.com/topics/feature-flags
+  first_seen_at: 2026-11-22T04:39:50.251Z
+  last_attempted_at: 2026-11-22T04:39:50.251Z
+  last_success_at: 2026-11-22T04:39:50.251Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://github.com/topics/feature-toggles
+  normalized_url: https://github.com/topics/feature-toggles
+  first_seen_at: 2026-11-22T04:43:20.319Z
+  last_attempted_at: 2026-11-22T04:43:20.319Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/feature-toggles"
+- url: https://openfeature.dev/ecosystem
+  normalized_url: https://openfeature.dev/ecosystem
+  first_seen_at: 2026-11-22T04:28:01.888Z
+  last_attempted_at: 2026-11-22T04:28:01.888Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://openfeature.dev/ecosystem"
+- url: https://raw.githubusercontent.com/andrewdmaclean/awesome-feature-flag-management/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/andrewdmaclean/awesome-feature-flag-management/HEAD/README.md
+  first_seen_at: 2026-11-22T04:38:36.071Z
+  last_attempted_at: 2026-11-22T04:38:36.071Z
+  last_success_at: 2026-11-22T04:38:36.071Z
+  status: success
+  items_created: 22
+  pipeline: agent-pipeline
+- url: https://www.flagsmith.com
+  normalized_url: https://www.flagsmith.com/
+  first_seen_at: 2026-11-22T04:44:11.967Z
+  last_attempted_at: 2026-11-22T04:44:11.967Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.flagsmith.com"

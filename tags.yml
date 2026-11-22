@@ -1,88 +1,122 @@
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: Api
 - id: ai-powered
-  name: "AI-Powered"
+  name: Ai Powered
 - id: real-time
-  name: "Real-time"
+  name: Real Time
 - id: targeting
-  name: "Targeting"
+  name: Targeting
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: remote-config
-  name: "Remote Config"
+  name: Remote Config
 - id: a-b-testing
-  name: "A/B Testing"
+  name: A B Testing
 - id: warehouse-native
-  name: "Warehouse-Native"
+  name: Warehouse Native
 - id: product-analytics
-  name: "Product Analytics"
+  name: Product Analytics
 - id: session-replay
-  name: "Session Replay"
+  name: Session Replay
 - id: automated-analysis
-  name: "Automated Analysis"
+  name: Automated Analysis
 - id: gdpr
-  name: "GDPR"
+  name: GDPR
 - id: simple
-  name: "Simple"
+  name: Simple
 - id: gitops
-  name: "GitOps"
+  name: Gitops
 - id: agpl-3-0
-  name: "AGPL-3.0"
+  name: AGPL-3.0
 - id: edge
-  name: "Edge"
+  name: Edge
 - id: developer-experience
-  name: "Developer Experience"
+  name: Developer Experience
 - id: personalization
-  name: "Personalization"
+  name: Personalization
 - id: digital-experience
-  name: "Digital Experience"
+  name: Digital Experience
 - id: free
-  name: "Free"
+  name: Free
 - id: mobile-first
-  name: "Mobile-First"
+  name: Mobile First
 - id: google-cloud
-  name: "Google Cloud"
+  name: Google Cloud
 - id: progressive-delivery
-  name: "Progressive Delivery"
+  name: Progressive Delivery
 - id: observability
-  name: "Observability"
+  name: Observability
 - id: go
-  name: "Go"
+  name: Go
 - id: openfeature
-  name: "OpenFeature"
+  name: Openfeature
 - id: net
-  name: ".NET"
+  name: .NET
 - id: signalr
-  name: "SignalR"
+  name: SignalR
 - id: experimentation
-  name: "Experimentation"
+  name: Experimentation
 - id: apache-2-0
-  name: "Apache-2.0"
+  name: Apache 2 0
 - id: java
-  name: "Java"
+  name: Java
 - id: spring
-  name: "Spring"
+  name: Spring
 - id: spring-boot
-  name: "Spring Boot"
+  name: Spring Boot
 - id: cncf
-  name: "CNCF"
+  name: CNCF
 - id: vendor-neutral
-  name: "Vendor-Neutral"
+  name: Vendor-Neutral
 - id: specification
-  name: "Specification"
+  name: Specification
 - id: kubernetes
-  name: "Kubernetes"
+  name: Kubernetes
 - id: sidecar
-  name: "Sidecar"
+  name: Sidecar
 - id: proxy
-  name: "Proxy"
+  name: Proxy
+- id: ab-testing
+  name: A/b Testing
+- id: typescript
+  name: Typescript
+- id: python
+  name: Python
+- id: django
+  name: Django
+- id: dead-flag-cleanup
+  name: Dead Flag Cleanup
+- id: cloud-native
+  name: Cloud Native
+- id: ruby
+  name: Ruby
+- id: react
+  name: React
+- id: elixir
+  name: Elixir
+- id: nextjs
+  name: Next.js
+- id: ci-cd
+  name: Ci Cd
+- id: php
+  name: Php
+- id: laravel
+  name: Laravel
+- id: eu-hosted
+  name: Eu Hosted
+- id: scheduled-releases
+  name: Scheduled Releases
+- id: multi-regional
+  name: Multi Regional
+- id: slack-integration
+  name: Slack Integration
