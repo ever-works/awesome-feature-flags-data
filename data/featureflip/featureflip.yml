@@ -1,0 +1,46 @@
+name: Featureflip
+description: Featureflip is a full-featured feature flag platform that
+  automatically removes its own dead flags by submitting pull requests. It
+  offers a free plan with up to 10 flags, 2 environments, 1 project, 3 users,
+  and no usage caps. A developer-focused solution for managing feature toggles
+  across applications.
+source_url: https://featureflip.dev
+category: Managed Platforms
+tags:
+  - freemium
+  - api
+  - dead-flag-cleanup
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Featureflip is a full-featured feature flag platform that removes its own dead
+  flags by submitting its own pull requests. It is designed for developers who
+  want automated flag lifecycle management.
+
+
+  ## Key Features
+
+
+  - Full-featured feature flag management
+
+  - Automatic dead flag removal via pull requests
+
+  - Free plan includes 10 flags, 2 environments, 1 project, 3 users
+
+  - No usage caps
+
+
+  ## Deployment
+
+
+  Cloud-hosted managed platform
+
+
+  ## Pricing
+
+
+  Free plan available; paid plans for larger teams and higher usage.
+brand: Featureflip
+updated_at: 2026-11-22 04:46

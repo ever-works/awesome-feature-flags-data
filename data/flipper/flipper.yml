@@ -1,0 +1,50 @@
+name: Flipper
+description: Feature flags and controls for Ruby apps and their client-side
+  code. A Ruby library that enables Ruby on Rails and other Ruby applications to
+  manage feature toggles.
+source_url: https://www.flippercloud.io/
+category: SDKs & Libraries
+tags:
+  - ruby
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flipper is a feature flag library for Ruby applications. It enables Ruby on
+  Rails and other Ruby applications to manage feature toggles and controls for
+  both server-side and client-side code.
+
+
+  ## Features
+
+
+  - Feature flag management for Ruby
+
+  - Ruby on Rails integration
+
+  - Client-side flag controls
+
+  - Multiple adapter support
+
+  - Dashboard UI
+
+  - Open-source (MIT license)
+
+
+  ## Pricing
+
+
+  Open-source library (free); hosted cloud service available.
+
+
+  ## Repository
+
+
+  https://github.com/jnunemaker/flipper
+brand: Flipper
+brand_logo_url: https://www.flippercloud.io/logo.svg
+images:
+  - https://www.flippercloud.io/og-image.png
+updated_at: 2026-11-22 04:46

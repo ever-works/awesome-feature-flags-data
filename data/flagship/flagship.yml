@@ -1,0 +1,45 @@
+name: Flagship
+description: Feature management and feature experimentation platform. Enables
+  teams to manage feature flags and run experiments across web, mobile, and
+  server-side applications.
+source_url: https://flagship.io
+category: Managed Platforms
+tags:
+  - paid
+  - a-b-testing
+  - experimentation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flagship is a feature management and feature experimentation platform that
+  enables teams to manage feature flags and run experiments across web, mobile,
+  and server-side applications.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - Feature experimentation
+
+  - A/B testing
+
+  - Multi-platform SDKs
+
+  - Real-time flag updates
+
+  - Managed cloud platform
+
+
+  ## Pricing
+
+
+  Paid platform with custom pricing plans.
+brand: Flagship
+brand_logo_url: https://flagship.io/logo.svg
+images:
+  - https://flagship.io/og-image.png
+updated_at: 2026-11-22 04:46

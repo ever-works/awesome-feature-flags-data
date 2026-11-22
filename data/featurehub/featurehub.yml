@@ -1,0 +1,46 @@
+name: FeatureHub
+description: A highly scalable cloud-native platform serving features in near
+  real time. Provides feature flag management with enterprise-grade scalability
+  and real-time flag evaluation.
+source_url: https://www.featurehub.io
+category: Managed Platforms
+tags:
+  - paid
+  - api
+  - real-time
+  - cloud-native
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FeatureHub is a highly scalable cloud-native platform for feature flag
+  management, serving features in near real time. It provides enterprise-grade
+  scalability and real-time flag evaluation for modern applications.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - Real-time flag evaluation
+
+  - Cloud-native architecture
+
+  - High scalability
+
+  - Enterprise-grade security
+
+  - API-first design
+
+
+  ## Pricing
+
+
+  Paid platform with tiered pricing.
+brand: FeatureHub
+brand_logo_url: https://www.featurehub.io/logo.svg
+images:
+  - https://www.featurehub.io/og-image.png
+updated_at: 2026-11-22 04:46

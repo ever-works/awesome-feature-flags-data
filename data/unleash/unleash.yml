@@ -1,0 +1,61 @@
+name: Unleash
+description: A powerful open-source solution for feature management written in
+  TypeScript. Provides self-hosted feature flagging with advanced targeting,
+  gradual rollouts, and OpenFeature SDK support.
+source_url: https://www.getunleash.io
+category: Open-Source Feature Flags
+tags:
+  - open-source
+  - self-hosted
+  - openfeature
+  - typescript
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Unleash is a powerful open-source feature management solution that enables
+  teams to roll out features safely, target specific users, and run gradual
+  rollouts. It is self-hosted and offers official SDKs for multiple languages,
+  including OpenFeature-compatible providers.
+
+
+  ## Features
+
+
+  - Self-hosted feature flag management
+
+  - Advanced user targeting
+
+  - Gradual and phased rollouts
+
+  - OpenFeature SDK support
+
+  - Official client and server SDKs
+
+  - Audit trails and access control
+
+  - Feature strategies and constraints
+
+
+  ## Pricing
+
+
+  Open-source (free to self-host); hosted plans available.
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Repository
+
+
+  https://github.com/Unleash/unleash
+brand: Unleash
+brand_logo_url: https://www.getunleash.io/logo.svg
+images:
+  - https://www.getunleash.io/og-image.png
+updated_at: 2026-11-22 04:46

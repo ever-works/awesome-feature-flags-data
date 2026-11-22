@@ -1,0 +1,46 @@
+name: HappyKit
+description: Feature flags for Next.js applications. A TypeScript-based solution
+  that enables Next.js developers to manage feature flags and control feature
+  availability in their frontend and edge applications.
+source_url: https://happykit.dev/
+category: SDKs & Libraries
+tags:
+  - next.js
+  - typescript
+  - edge
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HappyKit is a feature flag solution designed specifically for Next.js
+  applications. It enables Next.js developers to manage feature flags and
+  control feature availability in both frontend and edge environments with
+  TypeScript support.
+
+
+  ## Features
+
+
+  - Next.js feature flag integration
+
+  - Edge runtime support
+
+  - TypeScript support
+
+  - Client and server-side flags
+
+  - Dynamic flag evaluation
+
+  - Next.js middleware support
+
+
+  ## Pricing
+
+
+  Freemium model with free tier available.
+brand: HappyKit
+brand_logo_url: https://happykit.dev/logo.svg
+images:
+  - https://happykit.dev/og.png
+updated_at: 2026-11-22 04:46

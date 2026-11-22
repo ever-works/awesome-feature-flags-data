@@ -1,0 +1,56 @@
+name: Rollgate
+description: Rollgate is an EU-hosted feature flag management platform with
+  scheduled releases, instant rollback, and A/B testing capabilities. It
+  includes 12 SDKs and offers a free plan up to 500K API requests per month,
+  unlimited flags, 3 team members, and no credit card required. Built for
+  European teams prioritizing data residency.
+source_url: https://rollgate.io
+category: Managed Platforms
+tags:
+  - freemium
+  - eu-hosted
+  - a/b-testing
+  - scheduled-releases
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Rollgate is an EU-hosted feature flag management platform offering scheduled
+  releases, instant rollback, and A/B testing. It includes 12 SDKs for various
+  platforms.
+
+
+  ## Key Features
+
+
+  - Scheduled releases
+
+  - Instant rollback
+
+  - A/B testing
+
+  - 12 SDKs included
+
+  - EU-hosted for data residency
+
+  - Unlimited flags
+
+  - 3 team members on free plan
+
+  - No credit card required
+
+
+  ## Deployment
+
+
+  Cloud-hosted (EU)
+
+
+  ## Pricing
+
+
+  Free plan: up to 500K API requests/month, unlimited flags, 3 team members, no
+  credit card required.
+brand: Rollgate
+updated_at: 2026-11-22 04:46

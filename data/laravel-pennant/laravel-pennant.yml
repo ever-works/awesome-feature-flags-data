@@ -1,0 +1,51 @@
+name: Laravel Pennant
+description: A simple, lightweight feature flag package for Laravel written in
+  PHP. Provides Laravel developers with feature toggle functionality integrated
+  into the Laravel ecosystem.
+source_url: https://laravel.com/docs/10.x/pennant
+category: SDKs & Libraries
+tags:
+  - php
+  - laravel
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Laravel Pennant is a simple, lightweight feature flag package for Laravel
+  applications written in PHP. It provides feature toggle functionality natively
+  integrated into the Laravel ecosystem.
+
+
+  ## Features
+
+
+  - Feature flag management for Laravel
+
+  - Lightweight implementation
+
+  - PHP integration
+
+  - Database driver support
+
+  - Conditional blade directives
+
+  - Artisan commands for flag management
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license (part of Laravel ecosystem).
+
+
+  ## Repository
+
+
+  https://github.com/laravel/pennant
+brand: Laravel
+brand_logo_url: https://laravel.com/img/logomark.min.svg
+images:
+  - https://laravel.com/img/components/link-default.min.svg
+updated_at: 2026-11-22 04:46

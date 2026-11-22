@@ -1,0 +1,62 @@
+name: Nona
+description: Nona is an open-source remote configuration and feature flag
+  service exposing a single REST API with support for multiple environments and
+  official JavaScript and .NET client libraries. It is self-hostable via Docker
+  and is licensed under Apache-2.0, positioned as an alternative to Firebase
+  Remote Config.
+source_url: https://github.com/nona-oss/nona
+category: Open-Source Feature Flags
+tags:
+  - open-source
+  - self-hosted
+  - apache-2-0
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nona is an open-source remote configuration and feature flag service that
+  exposes a single REST API. It supports multiple environments and provides
+  official client libraries for JavaScript and .NET. The project is
+  self-hostable using Docker and is distributed under the Apache-2.0 license.
+
+
+  ## Features
+
+
+  - Single REST API for remote configuration and feature flags
+
+  - Multiple environment support
+
+  - Official JavaScript client SDK
+
+  - Official .NET client SDK
+
+  - Self-hosted deployment via Docker
+
+  - Apache-2.0 licensed open source
+
+
+  ## Pricing
+
+
+  Free and open source under the Apache-2.0 license; self-hosted, so there are
+  no managed SaaS fees.
+
+
+  ## Deployment
+
+
+  Self-hosted (Docker).
+
+
+  ## Integrations
+
+
+  - REST API
+
+  - JavaScript SDK
+
+  - .NET SDK
+brand: Nona
+updated_at: 2026-11-22 04:46

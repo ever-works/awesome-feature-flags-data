@@ -1,0 +1,52 @@
+name: Flopflip
+description: Feature management for React apps backed by a flag provider of your
+  choice. A TypeScript library that abstracts feature flag providers, allowing
+  React applications to consume flags from any compatible source.
+source_url: https://github.com/tdeekens/flopflip
+category: SDKs & Libraries
+tags:
+  - react
+  - typescript
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flopflip is a feature management library for React applications written in
+  TypeScript. It provides an abstraction layer over feature flag providers,
+  enabling React apps to consume flags from any compatible source without being
+  locked into a specific vendor.
+
+
+  ## Features
+
+
+  - React feature flag integration
+
+  - Provider-agnostic architecture
+
+  - TypeScript support
+
+  - Multiple provider support
+
+  - Hook-based API
+
+  - Declarative components
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Repository
+
+
+  https://github.com/tdeekens/flopflip
+brand: Flopflip
+brand_logo_url: https://github.com/tdeekens/flopflip/raw/main/logo.png
+images:
+  - https://github.com/tdeekens/flopflip/raw/main/docs/assets/screenshot.png
+updated_at: 2026-11-22 04:46

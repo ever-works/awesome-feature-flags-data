@@ -1,0 +1,48 @@
+name: ABTasty
+description: A customer experience optimization and feature management company.
+  Provides a managed platform for feature flags, A/B testing, personalization,
+  and user experience optimization.
+source_url: https://www.abtasty.com
+category: Managed Platforms
+tags:
+  - paid
+  - a-b-testing
+  - personalization
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ABTasty is a customer experience optimization and feature management platform.
+  It provides managed services for feature flags, A/B testing, personalization,
+  and user experience optimization across web and mobile applications.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - A/B testing
+
+  - Personalization
+
+  - User experience optimization
+
+  - Web and mobile SDKs
+
+  - Analytics and reporting
+
+  - Managed cloud platform
+
+
+  ## Pricing
+
+
+  Paid platform with custom enterprise pricing.
+brand: AB Tasty
+brand_logo_url: https://www.abtasty.com/logo.svg
+images:
+  - https://www.abtasty.com/og-image.png
+updated_at: 2026-11-22 04:46

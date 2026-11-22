@@ -1,0 +1,51 @@
+name: FunWithFlags
+description: Feature flags for Elixir applications. An open-source library that
+  enables Elixir and Phoenix developers to manage feature toggles, target
+  specific users, and control feature rollouts within their applications.
+source_url: https://github.com/tompave/fun_with_flags
+category: SDKs & Libraries
+tags:
+  - elixir
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FunWithFlags is an open-source feature flag library for Elixir applications.
+  It enables Elixir and Phoenix developers to manage feature toggles, target
+  specific users or segments, and control feature rollouts directly within their
+  Elixir applications.
+
+
+  ## Features
+
+
+  - Feature flag management for Elixir
+
+  - Phoenix integration
+
+  - User and segment targeting
+
+  - Dashboard UI for flag management
+
+  - Ecto backend support
+
+  - Open-source (MIT license)
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Repository
+
+
+  https://github.com/tompave/fun_with_flags
+brand: FunWithFlags
+brand_logo_url: https://github.com/tompave/fun_with_flags/raw/main/assets/logo.png
+images:
+  - https://github.com/tompave/fun_with_flags/raw/main/docs/screenshot.png
+updated_at: 2026-11-22 04:46

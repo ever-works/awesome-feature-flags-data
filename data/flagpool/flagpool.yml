@@ -1,0 +1,44 @@
+name: Flagpool
+description: Flagpool is a feature flag management platform focused on
+  simplicity and ease of use. Its free plan allows creating up to 10 new flags
+  per month with unlimited requests and targeting rules. Designed for teams that
+  want straightforward feature toggle management without complexity.
+source_url: https://flagpool.io
+category: Managed Platforms
+tags:
+  - freemium
+  - api
+  - simple
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flagpool is a feature flag management platform with a focus on simplicity and
+  ease of use.
+
+
+  ## Key Features
+
+
+  - Feature flag management
+
+  - Unlimited requests
+
+  - Unlimited targeting rules
+
+  - Free plan includes creating up to 10 new flags per month
+
+
+  ## Deployment
+
+
+  Cloud-hosted managed platform
+
+
+  ## Pricing
+
+
+  Free tier with paid options for higher usage.
+brand: Flagpool
+updated_at: 2026-11-22 04:46

@@ -1,0 +1,52 @@
+name: Flagr
+description: An open-source feature flagging, A/B testing, and dynamic
+  configuration microservice written in Go. It provides a self-hosted solution
+  for managing feature flags and running experiments without vendor lock-in.
+source_url: https://openflagr.github.io/flagr
+category: Open-Source Feature Flags
+tags:
+  - open-source
+  - self-hosted
+  - go
+  - a-b-testing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flagr is an open-source feature flagging, A/B testing, and dynamic
+  configuration microservice written in Go. It enables teams to manage feature
+  flags and run experiments in a self-hosted environment.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - A/B testing capabilities
+
+  - Dynamic configuration
+
+  - Self-hosted deployment
+
+  - Go-based microservice
+
+  - REST API for integration
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Repository
+
+
+  https://github.com/openflagr/flagr
+brand: OpenFlagR
+brand_logo_url: https://openflagr.github.io/flagr/images/flagr-logo.svg
+images:
+  - https://openflagr.github.io/flagr/images/flagr-architecture.png
+updated_at: 2026-11-22 04:46

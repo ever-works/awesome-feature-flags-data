@@ -1,0 +1,45 @@
+name: Tggl
+description: A platform designed for seamless feature flag management and
+  release orchestration, enabling teams to innovate rapidly and efficiently.
+  Provides feature flags and release management capabilities.
+source_url: https://tggl.io
+category: Managed Platforms
+tags:
+  - paid
+  - api
+  - progressive-delivery
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tggl is a platform for seamless feature flag management and release
+  orchestration. It enables teams to innovate rapidly and efficiently by
+  providing feature flags and controlled release capabilities.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - Release orchestration
+
+  - Controlled rollouts
+
+  - Team collaboration
+
+  - API-first platform
+
+  - Managed cloud service
+
+
+  ## Pricing
+
+
+  Paid platform with custom pricing.
+brand: Tggl
+brand_logo_url: https://tggl.io/logo.svg
+images:
+  - https://tggl.io/og-image.png
+updated_at: 2026-11-22 04:46

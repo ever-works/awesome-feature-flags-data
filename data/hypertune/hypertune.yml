@@ -1,0 +1,49 @@
+name: Hypertune
+description: Type-safe feature flags, A/B testing, analytics, and app
+  configuration with Git-style version control. Provides a strongly-typed
+  configuration platform for feature management.
+source_url: https://www.hypertune.com
+category: Managed Platforms
+tags:
+  - paid
+  - a-b-testing
+  - developer-experience
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hypertune is a configuration platform providing type-safe feature flags, A/B
+  testing, analytics, and app configuration with Git-style version control. It
+  enables teams to manage feature flags with strong type safety and
+  version-controlled configuration.
+
+
+  ## Features
+
+
+  - Type-safe feature flags
+
+  - A/B testing
+
+  - Analytics and insights
+
+  - App configuration
+
+  - Git-style version control
+
+  - Strongly-typed SDKs
+
+  - Managed platform
+
+
+  ## Pricing
+
+
+  Paid platform with custom pricing.
+brand: Hypertune
+brand_logo_url: https://www.hypertune.com/logo.svg
+images:
+  - https://www.hypertune.com/og-image.png
+updated_at: 2026-11-22 04:46

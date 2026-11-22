@@ -1,0 +1,45 @@
+name: PreFab
+description: Offers feature flags, dynamic log levels, and remote config as a
+  service. A managed platform for feature management and remote configuration of
+  applications.
+source_url: https://prefab.cloud
+category: Managed Platforms
+tags:
+  - paid
+  - remote-config
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PreFab is a managed service offering feature flags, dynamic log levels, and
+  remote configuration. It provides a centralized platform for managing
+  application configuration and feature flags in real time.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - Dynamic log levels
+
+  - Remote configuration
+
+  - Real-time updates
+
+  - Managed cloud service
+
+  - SDK integrations
+
+
+  ## Pricing
+
+
+  Paid platform with tiered pricing plans.
+brand: PreFab
+brand_logo_url: https://prefab.cloud/logo.svg
+images:
+  - https://prefab.cloud/og-image.png
+updated_at: 2026-11-22 04:46

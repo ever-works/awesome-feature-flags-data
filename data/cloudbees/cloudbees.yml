@@ -1,0 +1,48 @@
+name: CloudBees
+description: A cloud-based platform that provides end-to-end automated software
+  delivery. Offers feature management and feature flag capabilities as part of
+  its CI/CD and DevOps platform with OpenFeature SDK support.
+source_url: https://docs.cloudbees.com
+category: OpenFeature Providers
+tags:
+  - paid
+  - enterprise
+  - openfeature
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CloudBees is a cloud-based platform providing end-to-end automated software
+  delivery. It includes feature management and feature flag capabilities as part
+  of its CI/CD and DevOps platform, with support for OpenFeature SDKs.
+
+
+  ## Features
+
+
+  - Feature management
+
+  - Feature flags
+
+  - CI/CD integration
+
+  - OpenFeature SDK support
+
+  - Enterprise-grade security
+
+  - Automated software delivery
+
+  - Managed cloud platform
+
+
+  ## Pricing
+
+
+  Paid enterprise platform.
+brand: CloudBees
+brand_logo_url: https://docs.cloudbees.com/logo.svg
+images:
+  - https://docs.cloudbees.com/og-image.png
+updated_at: 2026-11-22 04:46

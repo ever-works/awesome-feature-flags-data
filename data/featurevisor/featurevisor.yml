@@ -1,0 +1,52 @@
+name: FeatureVisor
+description: Feature management for developers with GitOps. An open-source
+  platform that enables teams to manage feature flags, targeting rules, and
+  rollouts using version-controlled configuration files.
+source_url: https://featurevisor.com
+category: Open-Source Feature Flags
+tags:
+  - open-source
+  - gitops
+  - typescript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  FeatureVisor is a feature management platform designed for developers,
+  emphasizing GitOps workflows. It allows teams to define feature flags and
+  targeting rules in version-controlled files and deploy them consistently
+  across environments.
+
+
+  ## Features
+
+
+  - Feature flag management
+
+  - GitOps-based workflow
+
+  - Version-controlled configuration
+
+  - TypeScript SDKs
+
+  - Targeting and segmentation
+
+  - Rollout management
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/featurevisor/featurevisor
+brand: FeatureVisor
+brand_logo_url: https://featurevisor.com/logo.svg
+images:
+  - https://featurevisor.com/og-image.png
+updated_at: 2026-11-22 04:46

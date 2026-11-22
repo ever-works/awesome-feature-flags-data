@@ -1,0 +1,47 @@
+name: Eppo
+description: A next-generation A/B experimentation platform that enables
+  entrepreneurial culture. Provides warehouse-native experimentation with
+  feature flags, metric tracking, and experiment analysis.
+source_url: https://www.geteppo.com
+category: Experimentation-First
+tags:
+  - paid
+  - a-b-testing
+  - warehouse-native
+  - experimentation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Eppo is a next-generation A/B experimentation platform designed to enable
+  entrepreneurial culture through data-driven experimentation. It provides
+  warehouse-native experimentation capabilities with feature flags, metric
+  tracking, and experiment analysis.
+
+
+  ## Features
+
+
+  - A/B testing and experimentation
+
+  - Warehouse-native architecture
+
+  - Feature flag management
+
+  - Metric tracking and analysis
+
+  - Experiment design and monitoring
+
+  - Statistical significance testing
+
+
+  ## Pricing
+
+
+  Paid platform with custom pricing.
+brand: Eppo
+brand_logo_url: https://www.geteppo.com/logo.svg
+images:
+  - https://www.geteppo.com/og-image.png
+updated_at: 2026-11-22 04:46

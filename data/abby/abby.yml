@@ -1,0 +1,52 @@
+name: Abby
+description: Abby is an open-source feature flag and A/B testing platform with
+  configuration-as-code support and fully typed TypeScript SDKs. It offers
+  strong integration with frameworks such as Next.js and React, with a generous
+  free tier and affordable scaling options. Self-hostable and designed for
+  developers who want control over their feature flag infrastructure.
+source_url: https://abby.dev
+category: Open-Source Feature Flags
+tags:
+  - open-source
+  - self-hosted
+  - a/b-testing
+  - typescript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Abby is an open-source feature flag and A/B testing platform. It supports
+  configuration as code and provides fully typed TypeScript SDKs.
+
+
+  ## Key Features
+
+
+  - Feature flags for gradual rollouts
+
+  - A/B testing capabilities
+
+  - Configuration as Code
+
+  - Fully typed TypeScript SDKs
+
+  - Strong integration with Next.js and React
+
+  - Generous free tier
+
+  - Self-hostable
+
+
+  ## Deployment
+
+
+  Self-hosted / Open-source
+
+
+  ## Pricing
+
+
+  Open source with a generous free tier and cheap scaling options.
+brand: Abby
+updated_at: 2026-11-22 04:46
